@@ -13,5 +13,7 @@
 ## Note
 1. Don't forgot to change the pdf name in line 32.
 2. Also Install selenium and PyPDF2 in Pychar by howering over them line 2 and 5.
+3. This bot will spam only the first person/group you're chatting rn.
 
 ## Don't forget to STAR the repository ;)
+This bot may not work after some time because instagram keeps updating it's frontend regularly. Still give it a try :)
