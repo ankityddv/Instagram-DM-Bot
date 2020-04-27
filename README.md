@@ -14,4 +14,4 @@
 1. Don't forgot to change the pdf name in line 32.
 2. Also Install selenium and PyPDF2 in Pychar by howering over them line 2 and 5.
 
-## Don't forget to STAR the reposotory ;)
+## Don't forget to STAR the repository ;)
